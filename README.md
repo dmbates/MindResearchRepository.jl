@@ -8,9 +8,10 @@ package to facilitate access to some of the dataset in the MRR.
 
 Registered data sets include:
 
-|DataSet          |Author(s)                          |
-|-----------------|-----------------------------------|
-|RisseKliegl2011  |Sarah Risse, Reinhold Kliegl       |
+|DataSet            |Author(s)                          |
+|-------------------|-----------------------------------|
+|RisseKliegl2011    |Sarah Risse, Reinhold Kliegl       |
+|DambacherKliegl2007|Michael Dambacher, Reinhold Kliegl |
 
 To access a data archive, use `datadep` followed by the quoted name of the dataset.  Typically
 this construction is in a call to `datafiles` which returns a list of file names from the
@@ -83,3 +84,5 @@ julia> describe(dat["em_n0"])
 │ 26  │ age      │ -0.0136872   │ -0.5 │ -0.5   │ 0.5   │         │          │ Float64                  │
 │ 27  │ sn1      │ -0.0324172   │ -0.5 │ -0.5   │ 0.5   │         │          │ Float64                  │
 ```
+
+Later accesses to this `datadep` return the directory name without the need to download the data.
