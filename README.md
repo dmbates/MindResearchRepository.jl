@@ -10,7 +10,7 @@ Registered data sets include:
 
 |DataSet          |Author(s)                          |
 |-----------------|-----------------------------------|
-|RisseKliegl2011  |Saraj Risse, Reinhold Kliegl       |
+|RisseKliegl2011  |Sarah Risse, Reinhold Kliegl       |
 
 To access a data archive, use `datadep` followed by the quoted name of the dataset.  Typically
 this construction is in a call to `datafiles` which returns a list of file names from the
