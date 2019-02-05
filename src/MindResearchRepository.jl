@@ -43,7 +43,7 @@ function __init__()
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/23/31
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/PlagKunterLappeBraun2008_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/PlagKunterLappeBraun2008_1.0.tar.gz",
 	post_fetch_method = unpack))
 register(DataDep("KöslingKunterBaayenPlag2013",
     """
@@ -76,7 +76,7 @@ register(DataDep("KöslingKunterBaayenPlag2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/70/57
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KöslingKunterBaayenPlag2013_1.0..tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KöslingKunterBaayenPlag2013_1.0..tar.gz",
     post_fetch_method = unpack))
 register(DataDep("PlagKunterSchramm2011",
     """
@@ -106,7 +106,7 @@ register(DataDep("PlagKunterSchramm2011",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/85/72
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/PlagKunterSchramm2011_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/PlagKunterSchramm2011_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Plag2010",
     """
@@ -131,7 +131,7 @@ register(DataDep("Plag2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/86/73
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Plag2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Plag2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Plag2006",
     """
@@ -163,7 +163,7 @@ register(DataDep("Plag2006",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/87/74
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Plag2006_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Plag2006_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("DietterleLüdelingReznicek2014",
     """
@@ -190,7 +190,7 @@ register(DataDep("DietterleLüdelingReznicek2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/125/114
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DietterleLüdelingReznicek2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DietterleLüdelingReznicek2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Rose2015",
     """
@@ -220,7 +220,7 @@ register(DataDep("Rose2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/129/119
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Rose2015_1.2.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Rose2015_1.2.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Stec2015",
     """
@@ -255,7 +255,7 @@ register(DataDep("Stec2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/133/123
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Stec2015_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Stec2015_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Wieling2017",
     """
@@ -284,7 +284,7 @@ register(DataDep("Wieling2017",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/145/152
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Wieling2017_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Wieling2017_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Plag2017",
     """
@@ -315,7 +315,7 @@ register(DataDep("Plag2017",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/146/150
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Plag2017_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Plag2017_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BenHediaPlag2017",
     """
@@ -342,7 +342,7 @@ register(DataDep("BenHediaPlag2017",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/147/151
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BenHediaPlag2017_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BenHediaPlag2017_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("DambacherKliegl2007",
     """
@@ -367,9 +367,9 @@ register(DataDep("DambacherKliegl2007",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/6/4
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DambacherKliegl2007_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DambacherKliegl2007_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep("/DimigenSommerHohlfeldJacobsKliegl2014",
+register(DataDep("DimigenSommerHohlfeldJacobsKliegl2014",
     """
 	Dataset: Co-Registration of Eye Movements and EEG in Natural Reading: Analyses & Review
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/121
@@ -396,11 +396,13 @@ register(DataDep("/DimigenSommerHohlfeldJacobsKliegl2014",
 	recorded in free-viewing situations (such as reading, visual search, or scene
 	perception) and propose solutions. Results suggest that EEG recordings during
 	normal vision are feasible and useful to consolidate findings from EEG and eye-
-	tracking studies.          Journal of Experimental Psychology: General
+	tracking studies.
+	
+	Journal of Experimental Psychology: General
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/121/110
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DimigenSommerHohlfeldJacobsKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DimigenSommerHohlfeldJacobsKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Meulman2015",
     """
@@ -434,7 +436,7 @@ register(DataDep("Meulman2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/135/136
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Meulman2015_1.2.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Meulman2015_1.2.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Feng2009",
     """
@@ -461,7 +463,7 @@ register(DataDep("Feng2009",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/9/5
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Feng2009_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Feng2009_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WotschackKliegl2012",
     """
@@ -492,7 +494,7 @@ register(DataDep("WotschackKliegl2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/1/1
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WotschackKliegl2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WotschackKliegl2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Feng2009a",
     """
@@ -533,7 +535,7 @@ register(DataDep("Feng2009a",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/34/23
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Feng2009a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Feng2009a_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KupermanDambacherNuthmannKliegl2010",
     """
@@ -564,7 +566,7 @@ register(DataDep("KupermanDambacherNuthmannKliegl2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/40/29
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KupermanDambacherNuthmannKliegl2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KupermanDambacherNuthmannKliegl2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("HohensteinKliegl2013b",
     """
@@ -590,7 +592,7 @@ register(DataDep("HohensteinKliegl2013b",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/79/66
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/HohensteinKliegl2013b_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/HohensteinKliegl2013b_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("FernándezShalomKlieglSigman2013",
     """
@@ -627,7 +629,7 @@ register(DataDep("FernándezShalomKlieglSigman2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/81/68
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/FernándezShalomKlieglSigman2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/FernándezShalomKlieglSigman2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Kliegl2013",
     """
@@ -657,7 +659,7 @@ register(DataDep("Kliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/82/69
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Kliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Kliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("NuthmannKliegl2013",
     """
@@ -681,7 +683,7 @@ register(DataDep("NuthmannKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/83/70
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/NuthmannKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/NuthmannKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("PanYanLaubrockShuKliegl2014a",
     """
@@ -711,7 +713,7 @@ register(DataDep("PanYanLaubrockShuKliegl2014a",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/111/100
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/PanYanLaubrockShuKliegl2014a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/PanYanLaubrockShuKliegl2014a_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("MatuschekKlieglHolschneider2015",
     """
@@ -740,7 +742,7 @@ register(DataDep("MatuschekKlieglHolschneider2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/127/116
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/MatuschekKlieglHolschneider2015_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/MatuschekKlieglHolschneider2015_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KlieglHohensteinYanMcDonald2012",
     """
@@ -775,7 +777,7 @@ register(DataDep("KlieglHohensteinYanMcDonald2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/2/2
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglHohensteinYanMcDonald2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglHohensteinYanMcDonald2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("RisseKliegl2011",
     """
@@ -808,7 +810,8 @@ register(DataDep("RisseKliegl2011",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/14/9
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseKliegl2011_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseKliegl2011_1.0.tar.gz",
+	"03a2e55a62488a2d9f660fcf855d08d6e85ae454cbb199e52857994d29815190",
     post_fetch_method = unpack))
 register(DataDep("YanZhouShuKliegl2012",
     """
@@ -836,7 +839,7 @@ register(DataDep("YanZhouShuKliegl2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/16/11
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/YanZhouShuKliegl2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/YanZhouShuKliegl2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("YanRisseZhouKliegl2012",
     """
@@ -869,7 +872,7 @@ register(DataDep("YanRisseZhouKliegl2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/17/12
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/YanRisseZhouKliegl2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/YanRisseZhouKliegl2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("HohensteinLaubrockKliegl2010",
     """
@@ -902,7 +905,7 @@ register(DataDep("HohensteinLaubrockKliegl2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/19/13
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/HohensteinLaubrockKliegl2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/HohensteinLaubrockKliegl2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("YanKlieglShuPanZhou2010",
     """
@@ -931,7 +934,7 @@ register(DataDep("YanKlieglShuPanZhou2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/35/24
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/YanKlieglShuPanZhou2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/YanKlieglShuPanZhou2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("YanRichterShuKliegl2009",
     """
@@ -956,7 +959,7 @@ register(DataDep("YanRichterShuKliegl2009",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/36/25
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/YanRichterShuKliegl2009_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/YanRichterShuKliegl2009_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("YangKlieglRayner2008",
     """
@@ -982,7 +985,7 @@ register(DataDep("YangKlieglRayner2008",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/37/26
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/AngeleSlatteryYangKlieglRayner2008_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/AngeleSlatteryYangKlieglRayner2008_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KlieglRisseLaubrock2007",
     """
@@ -1011,7 +1014,7 @@ register(DataDep("KlieglRisseLaubrock2007",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/38/27
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglRisseLaubrock2007_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglRisseLaubrock2007_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("DambacherSlatteryYangKlieglRayner2013",
     """
@@ -1043,7 +1046,7 @@ register(DataDep("DambacherSlatteryYangKlieglRayner2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/50/38
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DambacherSlatteryYangKlieglRayner2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DambacherSlatteryYangKlieglRayner2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("RisseKliegl2013",
     """
@@ -1080,7 +1083,7 @@ register(DataDep("RisseKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/58/45
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("HohensteinKliegl2013",
     """
@@ -1117,7 +1120,7 @@ register(DataDep("HohensteinKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/74/61
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/HohensteinKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/HohensteinKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("TsaiKlieglYan2013",
     """
@@ -1147,7 +1150,7 @@ register(DataDep("TsaiKlieglYan2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/84/71
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/TsaiKlieglYan2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/TsaiKlieglYan2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("RisseKliegl2014",
     """
@@ -1181,7 +1184,7 @@ register(DataDep("RisseKliegl2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/88/75
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("YanPanLaubrockKlieglShu2014",
     """
@@ -1211,7 +1214,7 @@ register(DataDep("YanPanLaubrockKlieglShu2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/89/76
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/YanPanLaubrockKlieglShu2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/YanPanLaubrockKlieglShu2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("YanZhouShuKliegl2014",
     """
@@ -1238,7 +1241,7 @@ register(DataDep("YanZhouShuKliegl2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/90/77
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/YanZhouShuKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/YanZhouShuKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("ZhouKlieglYan2014",
     """
@@ -1269,7 +1272,7 @@ register(DataDep("ZhouKlieglYan2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/91/78
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/ZhouKlieglYan2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/ZhouKlieglYan2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("ShuZhouYanKliegl2014",
     """
@@ -1301,7 +1304,7 @@ register(DataDep("ShuZhouYanKliegl2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/96/83
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/ShuZhouYanKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/ShuZhouYanKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("AngeleRayner2013",
     """
@@ -1336,7 +1339,7 @@ register(DataDep("AngeleRayner2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/103/90
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/AngeleRayner2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/AngeleRayner2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("RaynerSchotterDrieghe2014",
     """
@@ -1372,7 +1375,7 @@ register(DataDep("RaynerSchotterDrieghe2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/112/101
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RaynerSchotterDrieghe2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RaynerSchotterDrieghe2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("TagliamonteBaayen2012",
     """
@@ -1404,7 +1407,7 @@ register(DataDep("TagliamonteBaayen2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/4/3
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/TagliamonteBaayen2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/TagliamonteBaayen2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WielingMontemagniNerbonneBaayen2013",
     """
@@ -1442,7 +1445,7 @@ register(DataDep("WielingMontemagniNerbonneBaayen2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/41/30
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingMontemagniNerbonneBaayen2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingMontemagniNerbonneBaayen2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WielingNerbonneBloemGooskensHeeringaBaayen2013",
     """
@@ -1471,7 +1474,7 @@ register(DataDep("WielingNerbonneBloemGooskensHeeringaBaayen2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/45/33
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingNerbonneBloemGooskensHeeringaBaayen2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingNerbonneBloemGooskensHeeringaBaayen2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WielingVallsBaayenNerbonne2013",
     """
@@ -1511,7 +1514,7 @@ register(DataDep("WielingVallsBaayenNerbonne2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/46/133
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingVallsBaayenNerbonne2013_1.3.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingVallsBaayenNerbonne2013_1.3.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WielingBloemMignellaTimmermeisterNerbonne2014a",
     """
@@ -1535,7 +1538,7 @@ register(DataDep("WielingBloemMignellaTimmermeisterNerbonne2014a",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/68/55
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WkielingBloemMignellaTimmermeisterNerbonne2014a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WkielingBloemMignellaTimmermeisterNerbonne2014a_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WielingNerbonneBaayen2013",
     """
@@ -1575,7 +1578,7 @@ register(DataDep("WielingNerbonneBaayen2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/44/32
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingNerbonneBaayen2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingNerbonneBaayen2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Wieling2015",
     """
@@ -1602,13 +1605,13 @@ register(DataDep("Wieling2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/134/139
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Wieling2015_1.3.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Wieling2015_1.3.tar.gz",
     post_fetch_method = unpack))
-register(DataDep("2015",
+register(DataDep("WielingGrieveBoumaFruehwaldColemanColeman2015",
     """
 	Dataset: Variation and change in the use of hesitation markers in Germanic languages
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/136
-	Author: Martijn Wieling, Jack Grieve, Gosse Bouma, Josef Fruehwald, John Coleman, Mark Liberman
+	Author: Martijn Wieling, Jack Grieve, Gosse Bouma, Josef Fruehwald, John Coleman, Mark Coleman
 	Date of Publication: 2013-03-17
 	Date of Creation: 2015-01-01
 	Date of Last Modification: 2015-11-23
@@ -1630,7 +1633,7 @@ register(DataDep("2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/136/135
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/2015_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/2015_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("OhlBrandtKliegl2011",
     """
@@ -1666,7 +1669,7 @@ register(DataDep("OhlBrandtKliegl2011",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/29/18
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/OhlBrandtKliegl2011_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/OhlBrandtKliegl2011_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("LaubrockKlieglRolfsEngbert2010",
     """
@@ -1697,7 +1700,7 @@ register(DataDep("LaubrockKlieglRolfsEngbert2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/69/56
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/LaubrockKlieglRolfsEngbert2010_1.2.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/LaubrockKlieglRolfsEngbert2010_1.2.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("OhlBrandtKliegl2013",
     """
@@ -1733,10 +1736,9 @@ register(DataDep("OhlBrandtKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/72/59
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/OhlBrandtKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/OhlBrandtKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Microsaccade-induced prolongation of saccadic latencies depends on microsaccade amplitude",
+register(DataDep("RolfsLaubrockKliegl2013",
     """
 	Dataset: Microsaccade-induced prolongation of saccadic latencies depends on microsaccade amplitude
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/75
@@ -1764,10 +1766,9 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/75/62
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsLaubrockKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsLaubrockKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Crossmodal coupling of oculomotor control and spatial attention in vision and audition",
+register(DataDep("RolfsEngbertKliegl2013",
     """
 	Dataset: Crossmodal coupling of oculomotor control and spatial attention in vision and audition
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/76
@@ -1797,10 +1798,9 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/76/63
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsEngbertKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsEngbertKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Shortening and prolongation of saccade latencies following microsaccades",
+register(DataDep("RolfsLaubrock2013",
     """
 	Dataset: Shortening and prolongation of saccade latencies following microsaccades
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/77
@@ -1827,14 +1827,15 @@ register(DataDep(
 	memory trials was increased by about 40 ms (or 16%). Hence, microsaccades can
 	have opposite consequences for saccade latencies, pointing at a differ- ential
 	role of these fixational eye movements in the preparation of saccade motor
-	programs.                                 Experimental Brain Research
+	programs.
+	
+	Experimental Brain Research
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/77/64
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsLaubrock2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsLaubrock2013_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Microsaccade Orientation Supports Attentional Enhancement Opposite a Peripheral Cue Commentary on Tse, Sheinberg, and Logothetis (2003)",
+register(DataDep("RolfsEngbertKliegl2013a",
     """
 	Dataset: Microsaccade Orientation Supports Attentional Enhancement Opposite a Peripheral Cue Commentary on Tse, Sheinberg, and Logothetis (2003)
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/78
@@ -1855,10 +1856,9 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/78/65
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsEngbertKliegl2013a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RolfsEngbertKliegl2013a_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Saccadic facilitation by modulation of microsaccades in natural backgrounds",
+register(DataDep("SinnEngbert2014",
     """
 	Dataset: Saccadic facilitation by modulation of microsaccades in natural backgrounds
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/110
@@ -1885,10 +1885,9 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/110/99
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/SinnEngbert2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/SinnEngbert2014_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Revealing the time course of signals influencing the generation of secondary saccades using Aalen’s additive hazards model",
+register(DataDep("OhlKliegl2016",
     """
 	Dataset: Revealing the time course of signals influencing the generation of secondary saccades using Aalen’s additive hazards model
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/142
@@ -1917,10 +1916,9 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/142/145
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/OhlKliegl2016_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/OhlKliegl2016_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Short-term forgetting in sentence comprehension Crosslinguistic evidence from head-final structures",
+register(DataDep("VasishthSuckowLewisKern2010a",
     """
 	Dataset: Short-term forgetting in sentence comprehension: Crosslinguistic evidence from head-final structures
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/26
@@ -1949,37 +1947,9 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/26/15
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthSuckowLewisKern2010a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthSuckowLewisKern2010a_1.0.tar.gz",
     post_fetch_method = unpack))
-register(DataDep(
-    "Semantic relations and compound transparency A regression study in CARIN theory",
-    """
-	Dataset: Semantic relations and compound transparency: A regression study in CARIN theory
-	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/43
-	Author: Hien Pham, Harald Baayen
-	Date of Publication: 2013-03-17
-	Date of Creation: 2013-10-31
-	Date of Last Modification: 2013-10-31
-
-	According to the carin theory of Gagne &amp; Shoben (1997), conceptual relations
-	play an important role in compound interpretation. This study develops three
-	measures gauging the role of conceptual relations, and pits these measures
-	against measures based on latent semantic analysis (Landauer &amp; Dumais,
-	1997). The carin measures successfully predict response latencies in a
-	familiarity categorization task, in a semantic transparency task, and in visual
-	lexical decision. Of the measures based on latent semantic analysis, only a
-	measure orthogonal to the conceptual relations, which instead gauges the extent
-	to which the concepts for the compound’s head and the compound itself are
-	discriminated, also reached significance. Results further indicate that in tasks
-	requiring careful assesment of the meaning of the compound, general knowledge of
-	conceptual relations plays a central role, whereas in the lexical decision task,
-	attention shifts to co-activated meanings and the specifics of the conceptual
-	relations realized in the compound’s modifier family.
-	""",
-	Any[],
-    post_fetch_method = unpack))
-register(DataDep(
-    "Processing Chinese Relative Clauses Evidence for the Subject-Relative Advantage",
+register(DataDep("VasishthChenLiGuo2013",
     """
 	Dataset: Processing Chinese Relative Clauses: Evidence for the Subject-Relative Advantage
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/53
@@ -2002,14 +1972,18 @@ register(DataDep(
 	three experimental results. These findings are important because they narrow the
 	theoretical space by limiting the role of an important class of
 	explanation—retrieval/integration cost—at least for relative clause processing
-	in Chinese. doi:10.1371/journal.pone.0077006    PLoS ONE 8(10): e77006.
-	
+	in Chinese.
+
+	doi:10.1371/journal.pone.0077006
+
+	PLoS ONE 8(10): e77006.
+
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/53/40
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthChenLiGuo2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthChenLiGuo2013_1.0.tar.gz",
+	"2f604c6a086c80c542e5b47e32767c241db8809bddb0c632b0a91d47766f7ba6",
     post_fetch_method = unpack))
-register(DataDep(
-    "Implicit prosody and contextual bias in silent reading",
+register(DataDep("McCurdyKentnerVasishth2013",
     """
 	Dataset: Implicit prosody and contextual bias in silent reading
 	Website: http://openscience.uni-leipzig.de/index.php/mr2/article/view/55
@@ -2044,7 +2018,7 @@ register(DataDep(
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/55/42
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/McCurdyKentnerVasishth2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/McCurdyKentnerVasishth2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("VasishthLewis2006",
     """
@@ -2067,7 +2041,7 @@ register(DataDep("VasishthLewis2006",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/56/43
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthLewis2006_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthLewis2006_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("VasishthShaherSrinivasan2012",
     """
@@ -2094,7 +2068,7 @@ register(DataDep("VasishthShaherSrinivasan2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/57/44
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthShaherSrinivasan2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthShaherSrinivasan2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BeckVasishth2009",
     """
@@ -2122,7 +2096,7 @@ register(DataDep("BeckVasishth2009",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/60/47
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BeckVasishth2009_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BeckVasishth2009_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BostonHaleKlieglPatilVasishth2008",
     """
@@ -2151,7 +2125,7 @@ register(DataDep("BostonHaleKlieglPatilVasishth2008",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/62/49
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BostonHaleKlieglPatilVasishth2008_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BostonHaleKlieglPatilVasishth2008_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BartekLewisVasishthSmith2011",
     """
@@ -2187,7 +2161,7 @@ register(DataDep("BartekLewisVasishthSmith2011",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/64/51
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BartekLewisVasishthSmith2011_1.3.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BartekLewisVasishthSmith2011_1.3.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("PatilKentnerGollradKueglerFeryVasishth2008",
     """
@@ -2222,7 +2196,7 @@ register(DataDep("PatilKentnerGollradKueglerFeryVasishth2008",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/65/52
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/PatilKentnerGollradKueglerFeryVasishth2008_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/PatilKentnerGollradKueglerFeryVasishth2008_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("ChenJägerVasishth2012",
     """
@@ -2237,7 +2211,7 @@ register(DataDep("ChenJägerVasishth2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/66/53
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/ChenJägerVasishth2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/ChenJägerVasishth2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("DrenhausZimmermannVasishth2010",
     """
@@ -2272,7 +2246,7 @@ register(DataDep("DrenhausZimmermannVasishth2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/67/54
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DrenhausZimmermannVasishth2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DrenhausZimmermannVasishth2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("VasishthKeshtiari2013",
     """
@@ -2297,7 +2271,7 @@ register(DataDep("VasishthKeshtiari2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/97/84
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthKeshtiari2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthKeshtiari2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("HaeusslerGrantFanselowFrazier2014",
     """
@@ -2336,7 +2310,7 @@ register(DataDep("HaeusslerGrantFanselowFrazier2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/114/103
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/HaeusslerGrantFanselowFrazier2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/HaeusslerGrantFanselowFrazier2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("FanselowHaeusslerWeskott2014",
     """
@@ -2366,7 +2340,7 @@ register(DataDep("FanselowHaeusslerWeskott2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/115/104
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/FanselowHaeusslerWeskott2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/FanselowHaeusslerWeskott2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("ShaoulBaayenWestbury2015",
     """
@@ -2399,7 +2373,7 @@ register(DataDep("ShaoulBaayenWestbury2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/126/115
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/ShaoulBaayenWestbury2015_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/ShaoulBaayenWestbury2015_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Öttl2015",
     """
@@ -2427,7 +2401,7 @@ register(DataDep("Öttl2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/128/138
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Öttl2015_1.1.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Öttl2015_1.1.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("GüntherMarelli2016",
     """
@@ -2465,7 +2439,7 @@ register(DataDep("GüntherMarelli2016",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/139/141
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/2016_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/2016_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("GötheEsserGendtKliegl2012",
     """
@@ -2497,7 +2471,7 @@ register(DataDep("GötheEsserGendtKliegl2012",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/10/6
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/GötheEsserGendtKliegl2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/GötheEsserGendtKliegl2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Rodríguez-VillagraGötheOberauerKliegl2013",
     """
@@ -2529,7 +2503,7 @@ register(DataDep("Rodríguez-VillagraGötheOberauerKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/52/39
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Rodríguez-VillagraGötheOberauerKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Rodríguez-VillagraGötheOberauerKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("JüngerKlieglOberauer2013",
     """
@@ -2560,7 +2534,7 @@ register(DataDep("JüngerKlieglOberauer2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/54/41
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/JüngerKlieglOberauer2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/JüngerKlieglOberauer2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("OberauerKliegl2014",
     """
@@ -2594,7 +2568,7 @@ register(DataDep("OberauerKliegl2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/93/80
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/OberauerKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/OberauerKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("OberauerKliegl2014a",
     """
@@ -2625,7 +2599,7 @@ register(DataDep("OberauerKliegl2014a",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/94/81
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/OberauerKliegl2014a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/OberauerKliegl2014a_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Oberauer2009",
     """
@@ -2650,7 +2624,7 @@ register(DataDep("Oberauer2009",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/98/85
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Oberauer2009_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Oberauer2009_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Oberauer2013",
     """
@@ -2678,7 +2652,7 @@ register(DataDep("Oberauer2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/99/86
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Oberauer2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Oberauer2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("OberauerBialkova2014",
     """
@@ -2704,7 +2678,7 @@ register(DataDep("OberauerBialkova2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/100/87
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/OberauerBialkova2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/OberauerBialkova2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("LindemannAbolafiaPrattBekkering2008",
     """
@@ -2736,7 +2710,7 @@ register(DataDep("LindemannAbolafiaPrattBekkering2008",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/106/97
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/LindemannAbolafiaPrattBekkering2008_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/LindemannAbolafiaPrattBekkering2008_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("SchadEngbert2010",
     """
@@ -2766,7 +2740,7 @@ register(DataDep("SchadEngbert2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/27/16
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/SchadEngbert2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/SchadEngbert2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BostonHaleVasishthKliegl2011",
     """
@@ -2797,7 +2771,7 @@ register(DataDep("BostonHaleVasishthKliegl2011",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/31/20
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BostonHaleVasishthKliegl2011_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BostonHaleVasishthKliegl2011_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("LewisVasishth2005",
     """
@@ -2833,7 +2807,7 @@ register(DataDep("LewisVasishth2005",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/59/46
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/LewisVasishth2005_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/LewisVasishth2005_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("VasishthBrüssowLewisDrenhaus2008",
     """
@@ -2862,7 +2836,7 @@ register(DataDep("VasishthBrüssowLewisDrenhaus2008",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/61/48
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthBrüssowLewisDrenhaus2008_1.4.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/VasishthBrüssowLewisDrenhaus2008_1.4.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("EngelmannVasishthEngbertKliegl2013",
     """
@@ -2898,7 +2872,7 @@ register(DataDep("EngelmannVasishthEngbertKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/71/58
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/EngelmannVasishthEngbertKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/EngelmannVasishthEngbertKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("LaubrockCajarEngbert2013",
     """
@@ -2939,7 +2913,7 @@ register(DataDep("LaubrockCajarEngbert2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/80/67
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/LaubrockCajarEngbert2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/LaubrockCajarEngbert2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Oberauer2014",
     """
@@ -2972,7 +2946,7 @@ register(DataDep("Oberauer2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/101/88
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Oberauer2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Oberauer2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("RisseHohensteinKlieglEngbert2014",
     """
@@ -3004,7 +2978,7 @@ register(DataDep("RisseHohensteinKlieglEngbert2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/102/89
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseHohensteinKlieglEngbert2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/RisseHohensteinKlieglEngbert2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("TrukenbrodEngbert2014",
     """
@@ -3038,7 +3012,7 @@ register(DataDep("TrukenbrodEngbert2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/113/102
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/TrukenbrodEngbert2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/TrukenbrodEngbert2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("MilinFeldmanRamscarHendrixBaayen2017",
     """
@@ -3073,7 +3047,7 @@ register(DataDep("MilinFeldmanRamscarHendrixBaayen2017",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/143/147
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Milin2017_1.1.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Milin2017_1.1.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KlieglWeiDambacherYanZhou2010",
     """
@@ -3115,7 +3089,7 @@ register(DataDep("KlieglWeiDambacherYanZhou2010",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/11/7
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglWeiDambacherYanZhou2010_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglWeiDambacherYanZhou2010_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KlieglBates2011",
     """
@@ -3139,7 +3113,7 @@ register(DataDep("KlieglBates2011",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/12/8
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglBates2011_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglBates2011_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("MassonKliegl2013",
     """
@@ -3170,7 +3144,7 @@ register(DataDep("MassonKliegl2013",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/49/37
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/MassonKliegl2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/MassonKliegl2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("PanYanLaubrockShuKliegl2014",
     """
@@ -3204,7 +3178,7 @@ register(DataDep("PanYanLaubrockShuKliegl2014",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/92/79
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/PanYanLaubrockShuKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/PanYanLaubrockShuKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BaltesDittmann-KohliKliegl2014",
     """
@@ -3239,7 +3213,7 @@ register(DataDep("BaltesDittmann-KohliKliegl2014",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/95/82
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BaltesDittmann-KohliKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BaltesDittmann-KohliKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("DambacherHübner2014",
     """
@@ -3275,7 +3249,7 @@ register(DataDep("DambacherHübner2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/104/91
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DambacherHübner2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DambacherHübner2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("LindemannAbolafiaGirardiBekkering2007b",
     """
@@ -3301,7 +3275,7 @@ register(DataDep("LindemannAbolafiaGirardiBekkering2007b",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/109/98
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/LindemannAbolafiaGirardiBekkering2007b_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/LindemannAbolafiaGirardiBekkering2007b_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Kliegl2014a",
     """
@@ -3332,7 +3306,7 @@ register(DataDep("Kliegl2014a",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/117/106
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Kliegl2014a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Kliegl2014a_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KlieglSmithBaltes2014",
     """
@@ -3362,7 +3336,7 @@ register(DataDep("KlieglSmithBaltes2014",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/118/107
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglSmithBaltes2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglSmithBaltes2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("KlieglSmithBaltes2014a",
     """
@@ -3389,7 +3363,7 @@ register(DataDep("KlieglSmithBaltes2014a",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/119/108
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglSmithBaltes2014a_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/KlieglSmithBaltes2014a_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("BaltesKliegl2014",
     """
@@ -3418,7 +3392,7 @@ register(DataDep("BaltesKliegl2014",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/120/109
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/BaltesKliegl2014_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/BaltesKliegl2014_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("WielingBloemMignellaTimmermeisterBaayenNerbonne2014",
     """
@@ -3443,7 +3417,7 @@ register(DataDep("WielingBloemMignellaTimmermeisterBaayenNerbonne2014",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/124/131
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingBloemMignellaTimmermeisterBaayenNerbonne2014_1.2.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/WielingBloemMignellaTimmermeisterBaayenNerbonne2014_1.2.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("de la VegaDe FilippisLachmairDudschigKaup2012",
     """
@@ -3477,7 +3451,7 @@ register(DataDep("de la VegaDe FilippisLachmairDudschigKaup2012",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/122/111
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/de la VegaDe FilippisLachmairDudschigKaup2012_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/de la VegaDe FilippisLachmairDudschigKaup2012_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("de la VegaDudschigDe FilippisLachmairKaup2013",
     """
@@ -3506,7 +3480,7 @@ register(DataDep("de la VegaDudschigDe FilippisLachmairKaup2013",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/123/112
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/de la VegaDudschigDe FilippisLachmairKaup2013_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/de la VegaDudschigDe FilippisLachmairKaup2013_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Dudschig2015",
     """
@@ -3542,7 +3516,7 @@ register(DataDep("Dudschig2015",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/137/137
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Dudschig2015_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Dudschig2015_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("StecHuiskesRedeker2016",
     """
@@ -3575,7 +3549,7 @@ register(DataDep("StecHuiskesRedeker2016",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/138/140
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Stec2016_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Stec2016_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("StrozykAhlbergDudschigKaup2016",
     """
@@ -3603,7 +3577,7 @@ register(DataDep("StrozykAhlbergDudschigKaup2016",
 	
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/140/153
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Ahlberg2016_1.4.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Ahlberg2016_1.4.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("DudschigKaup2017",
     """
@@ -3641,7 +3615,7 @@ register(DataDep("DudschigKaup2017",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/141/143
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/DudschigKaup2017_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/DudschigKaup2017_1.0.tar.gz",
     post_fetch_method = unpack))
 register(DataDep("Stec2017",
     """
@@ -3673,7 +3647,7 @@ register(DataDep("Stec2017",
 
 	Please cite this paper: http://openscience.uni-leipzig.de/index.php/mr2/article/download/144/148
 	""",
-	Any["http://openscience.uni-leipzig.de/Rpository/src/contrib/Stec2017_1.0.tar.gz"],
+	"http://openscience.uni-leipzig.de/Rpository/src/contrib/Stec2017_1.0.tar.gz",
     post_fetch_method = unpack))
 end
 
